@@ -1,2 +1,2 @@
-# Flick Client Core Runtime
-Protected and encrypted client runtime distribution.
+# Core Distribution Cache
+Automated mirror for dependency binaries.
